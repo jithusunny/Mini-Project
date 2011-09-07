@@ -1,0 +1,10 @@
+Computer controlled Robo-car
+----------------------------
+
+The Robo-car has a AtMega8 microcontroller in it programmed in C cross-compiled for AVR.
+
+The User can control the Car through a GUI coded in PyQt4 running in a remote machine. The communication is Serial and is handled by pyserial module.
+
+RF module is used for wireless communication.
+
+You can read more about our project here at my blog - http://jithusunnyk.blogspot.com/2011/08/mini-project-computer-controlled-car.html
